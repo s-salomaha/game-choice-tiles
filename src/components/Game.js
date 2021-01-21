@@ -14,10 +14,10 @@ export const Game = () => {
 
 	return (
 		<div className="game row">
-			<div className="col-6">
+			<div className="col-md-6">
 				<Board/>
 			</div>
-			<div className="col-6">
+			<div className="col-md-6">
 				<div className="game__info">
 					<h2 className="mb-4">Game info:</h2>
 					<div>Round: <span className="text-primary">{round}</span></div>

@@ -11,7 +11,7 @@ export const Navbar = () => (
 				<li className="nav-item">
 				<a
 					className="nav-link"
-					href="#"
+					href="https://codesandbox.io/s/game-choice-tiles-mzki5"
 					target="_blank"
 				>
 					Github repository

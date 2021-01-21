@@ -8,3 +8,5 @@ The gameplay is the sequence of rounds. In each round the user should select 2 t
 Application developed using ReactJS + useReducer hook.
 
 [Link codesandbox](https://codesandbox.io/s/game-choice-tiles-mzki5)
+
+[Link App](http://game-choice-tiles.rovenk.beget.tech/)

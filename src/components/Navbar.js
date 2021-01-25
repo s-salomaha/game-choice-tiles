@@ -11,8 +11,9 @@ export const Navbar = () => (
 				<li className="nav-item">
 				<a
 					className="nav-link"
-					href="https://codesandbox.io/s/game-choice-tiles-mzki5"
+					href="https://github.com/s-salomaha/game-choice-tiles"
 					target="_blank"
+					rel="noreferrer"
 				>
 					Github repository
 				</a>
@@ -22,6 +23,7 @@ export const Navbar = () => (
 							className="nav-link"
 							href="https://career.habr.com/s-salomaha"
 							target="_blank"
+							rel="noreferrer"
 						>
 							Habrcareer/s-salomaha
 						</a>
